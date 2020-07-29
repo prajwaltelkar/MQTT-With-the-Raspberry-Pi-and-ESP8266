@@ -5,6 +5,8 @@
 
 ### Introduction
 MQTT, or MQ Telemetry Transport, is a messaging protocol which allows multiple devices to talk to each other. MQTT is based around the idea that devices can publish or subscribe to topics.
+<br/>
+<img src="Capture1.JPG" width="800" height="400"> <br/>
 
 ### Objective
 
