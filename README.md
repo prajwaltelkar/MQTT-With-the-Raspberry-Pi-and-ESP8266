@@ -3,12 +3,12 @@
 
 ### Encouraged by  <a href="https://appiko.org/">Appiko</a>
 
-### Introduction
+### INTRODUCTION
 MQTT, or MQ Telemetry Transport, is a messaging protocol which allows multiple devices to talk to each other. MQTT is based around the idea that devices can publish or subscribe to topics.
 <br/>
-<img src="Capture1.JPG" width="800" height="400"> <br/>
+<img src="Capture1.JPG" width="600" height="400"> <br/>
 
-### Objective
+### OBJECTIVE
 
 Publishing to a topic using an ESP8266, and creating a Python script that will subscribe to this same topic, via a Raspberry Pi which will act as the MQTT Broker.
 
@@ -21,5 +21,5 @@ Publishing to a topic using an ESP8266, and creating a Python script that will s
 <li> Programming the ESP8266 using arduino
  </ul>
  
- ##### Working schematic
-<img src="Capture.JPG" width="800" height="400"> <br/>
+ ##### WORKING SCHEMATIC
+<img src="Capture.JPG" width="600" height="400"> <br/>
